@@ -1,4 +1,4 @@
-# wordstrap4
+# Wordstrap4
 
 Contributors: Lucas Wildemberg
 Requires at least: WordPress 4.1 and Boostrap v4.0
